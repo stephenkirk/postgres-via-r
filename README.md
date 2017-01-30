@@ -1,6 +1,6 @@
 # postgres-via-r
-
-Prepares a computer for connecting to a postgres database through Rpostgres in R.
+Prepares a computer for connecting to a postgres database through Rpostgres in
+R.
 
 ## Prerequisites
 R
